@@ -1,0 +1,13 @@
+/Users/sakethkalam/SkateWorld/Core/bin/Debug/net8.0/Core.deps.json
+/Users/sakethkalam/SkateWorld/Core/bin/Debug/net8.0/Core.dll
+/Users/sakethkalam/SkateWorld/Core/bin/Debug/net8.0/Core.pdb
+/Users/sakethkalam/SkateWorld/Core/obj/Debug/net8.0/Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sakethkalam/SkateWorld/Core/obj/Debug/net8.0/Core.AssemblyInfoInputs.cache
+/Users/sakethkalam/SkateWorld/Core/obj/Debug/net8.0/Core.AssemblyInfo.cs
+/Users/sakethkalam/SkateWorld/Core/obj/Debug/net8.0/Core.csproj.CoreCompileInputs.cache
+/Users/sakethkalam/SkateWorld/Core/obj/Debug/net8.0/Core.sourcelink.json
+/Users/sakethkalam/SkateWorld/Core/obj/Debug/net8.0/Core.dll
+/Users/sakethkalam/SkateWorld/Core/obj/Debug/net8.0/refint/Core.dll
+/Users/sakethkalam/SkateWorld/Core/obj/Debug/net8.0/Core.pdb
+/Users/sakethkalam/SkateWorld/Core/obj/Debug/net8.0/ref/Core.dll
+/Users/sakethkalam/SkateWorld/Core/obj/Debug/net8.0/Core.csproj.AssemblyReference.cache

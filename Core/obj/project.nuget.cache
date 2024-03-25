@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "eCW77n0z3u23pGEqpfMbn4uVWVDDwK4pktC+WTb53rgckw+362eKmJDee6EMJC4Rtu9tsvO6de4S/oEdmPf/ew==",
+  "success": true,
+  "projectFilePath": "/Users/sakethkalam/SkateWorld/Core/Core.csproj",
+  "expectedPackageFiles": [
+    "/Users/sakethkalam/.nuget/packages/serilog/3.1.1/serilog.3.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}
